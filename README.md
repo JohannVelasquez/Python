@@ -1,26 +1,27 @@
-# 🐍 Mi Camino en Python: Reto 100 Días y Más
+# 🐍 Master en Python: De Cero a Proyectos Reales
 
-¡Bienvenido a mi repositorio central de aprendizaje! Aquí documento mi progreso, ejercicios y proyectos desarrollados en Python. 🚀
+¡Bienvenido a mi centro de aprendizaje de Python! En este repositorio documento mi evolución a través de diferentes rutas de estudio, ejercicios de lógica y aplicaciones prácticas.
 
-## 📚 Estructura del Repositorio
+## 🗺️ Mis Rutas de Aprendizaje
 
-### 1. [Curso 100 Días de Python](./01-Curso-100-Dias/)
-Proyectos diarios para fortalecer la lógica y el dominio del lenguaje.
-* **Día 1:** [Generador de Bienvenida 👋](./01-Curso-100-Dias/01-Generador-Bienvenida) - Manejo de entradas, salidas y formato de strings.
+### 1. [Reto: 100 Días de Python](./01-Curso-100-Dias/)
+*Basado en el curso de lógica y fundamentos.*
+* **Día 1:** [Generador de Bienvenida 👋](./01-Curso-100-Dias/01-Generador-Bienvenida) - Manejo de `input()`, `print()` y comentarios.
 
-### 2. Otros Proyectos y Scripts 🛠️
-* *Próximamente contenido de otros cursos y herramientas útiles.*
+* **Estado:** 🔵 En curso (1/100).
 
-## 📈 Mi Progreso
-| Día | Proyecto | Tema Principal | Status |
-| :---: | :--- | :--- | :---: |
-| 01 | Generador de Bienvenida | `input()` & `print()` | ✅ |
-| 02 | Próximamente... | | ⏳ |
+### 2. [Python Mastery: +20 Proyectos Reales]
+*20 Proyectos en entorno real.*
+* **Estado:** ⚪ Pendiente por iniciar.
+* **Objetivo:** Construir herramientas comerciales y scripts automatizados.
+
+---
 
 ## 💻 Herramientas Utilizadas
 * **Editor:** Visual Studio Code
 * **Control de Versiones:** Git & GitHub
-* **Terminal:** Git Bash (MINGW64)
+* **Terminal:** Git Bash
 
----
-*“Un paso más cerca de ser Desarrollador cada día.”* ✨
+> "El código que escribas hoy es el fundamento de lo que construirás mañana." ✨
+
+12/Febrero/2026
